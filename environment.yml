@@ -1,0 +1,57 @@
+name: sportstracklive_scraper
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - backcall=0.2.0=pyh9f0ad1d_0
+  - backports=1.0=py_2
+  - backports.functools_lru_cache=1.6.1=py_0
+  - beautifulsoup4=4.9.3=pyhb0f4dca_0
+  - brotlipy=0.7.0=py39ha3862ff_1001
+  - ca-certificates=2020.6.20=hecda079_0
+  - certifi=2020.6.20=py39h467e6f4_2
+  - cffi=1.14.3=py39h50be354_1
+  - chardet=3.0.4=py39h467e6f4_1008
+  - colorama=0.4.4=pyh9f0ad1d_0
+  - cryptography=3.1.1=py39h50be354_1
+  - decorator=4.4.2=py_0
+  - idna=2.10=pyh9f0ad1d_0
+  - ipykernel=5.3.4=py39he1a07ef_1
+  - ipython=7.18.1=py39h9cd51e4_1
+  - ipython_genutils=0.2.0=py_1
+  - jedi=0.17.2=py39hde42818_1
+  - jupyter_client=6.1.7=py_0
+  - jupyter_core=4.6.3=py39hde42818_2
+  - libsodium=1.0.18=h62dcd97_1
+  - openssl=1.1.1h=he774522_0
+  - parso=0.7.1=pyh9f0ad1d_0
+  - pickleshare=0.7.5=py_1003
+  - pip=20.2.4=py_0
+  - prompt-toolkit=3.0.8=py_0
+  - pycparser=2.20=pyh9f0ad1d_2
+  - pygments=2.7.1=py_0
+  - pyopenssl=19.1.0=py_1
+  - pysocks=1.7.1=py39h467e6f4_2
+  - python=3.9.0=h408a966_4_cpython
+  - python-dateutil=2.8.1=py_0
+  - python_abi=3.9=1_cp39
+  - pywin32=228=py39h4cdbadb_0
+  - pyzmq=19.0.2=py39h1821e42_2
+  - requests=2.24.0=pyh9f0ad1d_0
+  - setuptools=49.6.0=py39h467e6f4_2
+  - six=1.15.0=pyh9f0ad1d_0
+  - soupsieve=2.0.1=py_1
+  - sqlite=3.33.0=he774522_1
+  - tornado=6.0.4=py39h4cdbadb_2
+  - traitlets=5.0.5=py_0
+  - tzdata=2020b=h516909a_0
+  - urllib3=1.25.10=py_0
+  - vc=14.1=h869be7e_1
+  - vs2015_runtime=14.16.27012=h30e32a0_2
+  - wcwidth=0.2.5=pyh9f0ad1d_2
+  - wheel=0.35.1=pyh9f0ad1d_0
+  - win_inet_pton=1.1.0=py39hde42818_1
+  - wincertstore=0.2=py39hde42818_1005
+  - zeromq=4.3.2=ha925a31_4
+prefix: C:\Users\thomas\Anaconda3\envs\sportstracklive_scraper
+
